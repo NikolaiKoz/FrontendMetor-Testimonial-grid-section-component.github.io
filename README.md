@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/NikolaiKoz/FrontendMetor-testimonial-grid-section-component.github.io)
-- Live Site URL: [Add live site URL here](https://nikolaikoz.github.io/FrontendMetor-testimonial-grid-section-component.github.io/)
+- Solution URL: [See my solution :eyes:](https://github.com/NikolaiKoz/FrontendMetor-testimonial-grid-section-component.github.io)
+- Live Site URL: [Visit the site :eyes:](https://nikolaikoz.github.io/FrontendMetor-testimonial-grid-section-component.github.io/)
 
 
 
