@@ -59,6 +59,10 @@ table {
 
 }
 
+body{
+    background-color: var(--light-grayish-blue);
+}
+
 /* MOVILE FIRST */
 
 .testimonialSection{
@@ -75,6 +79,7 @@ table {
     border-radius: 10px;
     width: 275px;
     position: relative;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
 
 
 
@@ -130,7 +135,6 @@ table {
 }
 
 .testimonialSection__card__headerContainer__person__condition{
-    color: var(--white);
     opacity: 50%;
 }
 
@@ -152,26 +156,55 @@ table {
 
 }
 
-.card1{
+    /* CARD 1 */
+
+.card__1{
     background-color: var(--moderate-violet);
     color: var(--white);
 }
 
-.card1_details{
+.card__1__details{
     border: 2px solid rgb(155, 79, 226);
 }
 
-.card2{
+    /* CARD 2 */
+
+.card__2{
     background-color: var(--very-dark-grayish-blue);
     color: var(--white);
 }
 
+.card__2__details{
+    border: 2px solid rgb(175, 171, 179);
+}
+
+    /* CARD 3 */
+
+.card__3{
+    background-color: var(--white);
+    color: var(--very-dark-grayish-blue);
+}
+
+.card__3__details{
+    border: 2px solid var(--white);
+}
+
+.card__4{
+    background-color: var(--very-dark-blackish-blue);
+    color: var(--white);
+}
+
+.card__4__details{
+    border: 2px solid rgb(155, 79, 226);
+}
 
 
 /* ATTRIBUTION */
 
 .attribution {
-    font-size: 11px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: 500;
+    font-size: 13px;
     text-align: center;
 }
 
